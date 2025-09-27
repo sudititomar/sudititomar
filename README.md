@@ -1,11 +1,11 @@
-Suditi Tomar
-Welcome to my GitHub profile! 🚀
-I'm Suditi Tomar, a dedicated developer and lifelong learner passionate about building impactful solutions in web development and innovative technology.
+# Suditi Tomar
 
+Welcome to my GitHub profile! 🚀  
+I'm Suditi Tomar, a dedicated developer and lifelong learner passionate about building impactful solutions in **web development**,  and **innovative technology.**
 Currently a second-year Computer Science student at GLA University, I thrive on collaborating with others, exploring new frameworks, and tackling real-world challenges through code. 
 
 👤 About Me
-💻 Passionate about Java, SQL, Web Development, and Hackathons
+💻 Passionate about **Java**, **SQL**, **Web Development**, and **Hackathons**.
 🚀 Building full-stack projects and learning new technologies
 🏀 Basketball club member
 🎮 Video game enthusiast
