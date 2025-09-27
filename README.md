@@ -1,8 +1,4 @@
-# Suditi Tomar
-
-Welcome to my GitHub profile! 🚀  
-I'm Suditi Tomar, a dedicated developer and lifelong learner passionate about building impactful solutions in **web development**,  and **innovative technology.**
-Currently a second-year Computer Science student at GLA University, I thrive on collaborating with others, exploring new frameworks, and tackling real-world challenges through code. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Suditi+Tomar.;Front-End+Developer.)](https://git.io/typing-svg)
 
 🔥 About Me
 -💻 Skilled in **C**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**, and **SQL**.
