@@ -1,4 +1,4 @@
-i, I'm Suditi Tomar 👋
+Hi, I'm Suditi Tomar 👋
 Second-year Computer Science Student at GLA University
 
 💻 Passionate about Java, SQL, Web Development, and Hackathons
