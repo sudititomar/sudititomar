@@ -5,22 +5,22 @@ I'm Suditi Tomar, a dedicated developer and lifelong learner passionate about bu
 Currently a second-year Computer Science student at GLA University, I thrive on collaborating with others, exploring new frameworks, and tackling real-world challenges through code. 
 
 🔥 About Me
-💻 Skilled in **C**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**, and **SQL**.
+-💻 Skilled in **C**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**, and **SQL**.
 
-🌱 Actively learning and deepening my knowledge in **full-stack development**.
+-🌱 Actively learning and deepening my knowledge in **full-stack development**.
 
-📚 Interested in AI-powered applications, web technologies, and data-driven solutions.
+-📚 Interested in AI-powered applications, web technologies, and data-driven solutions.
 
-🏀 Basketball club member | 💪 Gym enthusiast | 🎮 Video game enthusiast
+-🏀 Basketball club member | 💪 Gym enthusiast | 🎮 Video game enthusiast
 
 🛠️ Tech Stack
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </p>
 
-📌 Featured Projects
-Bridgelabz-2415001605-Training
+📌 Featured Projects:
+-Bridgelabz-2415001605-Training
 Training repository with coding exercises, problem-solving, and learning resources from Bridgelabz.
 
-sister-s-birthday-project
+-sister-s-birthday-project
 A simple, responsive birthday website built with HTML and CSS as a personal project.
 
 🌐 Connect with Me
