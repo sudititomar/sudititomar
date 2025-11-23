@@ -24,6 +24,8 @@ Training repository with coding exercises, problem-solving, and learning resourc
 -sister-s-birthday-project
 A simple, responsive birthday website built with HTML and CSS as a personal project.
 
+-Student-Result-Database-Management-System
+A mini-project to monitor a students result, this project is built with java and sql combined. 
 
 
 
