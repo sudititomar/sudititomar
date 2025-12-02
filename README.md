@@ -9,7 +9,7 @@
 ## 🔥 About Me
 -💻 Skilled in **C**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**, and **SQL**.
 
--🌱 Actively learning and deepening my knowledge in **full-stack development**.
+-🌱 Actively learning and deepening my knowledge in **Full-Stack Development**.
 
 -📚 Interested in AI-powered applications, web technologies, and data-driven solutions.
 
