@@ -32,6 +32,4 @@ A mini-project to monitor a students result, this project is built with java and
 ## 🌐 Connect with Me
 LinkedIn- www.linkedin.com/in/suditi-tomar-509984319
 
-Portfolio- http://127.0.0.1:5500/proo.html
-
 Email: suditi.tomar_cs24@gla.ac.in
