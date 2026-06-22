@@ -1,35 +1,120 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&vCenter=true&width=800&lines=Hey%F0%9F%91%8B%2C+I'm+Suditi+Tomar.;Aspiring+Front-End+Developer."/> </h1>
+# <h1 align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Suditi+Tomar;Aspiring+Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sudititomar&label=Profile+Views&color=6C63FF&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Computer Science Student
+
+💻 Passionate about Web Development & Software Engineering
+
+🌱 Currently Learning **Full Stack Development**
+
+🤖 Exploring **AI-Powered Applications**
+
+🚀 Building projects that solve real-world problems
+
+🏀 Basketball Player
+
+💪 Fitness Enthusiast
+
+🎮 Gamer
+
+📫 Reach me at: **[suditi.tomar_cs24@gla.ac.in](mailto:suditi.tomar_cs24@gla.ac.in)**
+
+---
 
 ## 🛠️ Tech Stack
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> </p>
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,mysql,git,github,vscode" />
 
+</div>
 
-## 🔥 About Me
--💻 Skilled in **C**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**, and **SQL**.
+---
 
--🌱 Actively learning and deepening my knowledge in **Full-Stack Development**.
+## 📊 GitHub Statistics
 
--📚 Interested in AI-powered applications, web technologies, and data-driven solutions.
+<div align="center">
 
--🏀 Basketball club member | 💪 Gym enthusiast | 🎮 Video game enthusiast
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudititomar&show_icons=true&theme=tokyonight"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudititomar&layout=compact&theme=tokyonight"/>
 
+</div>
 
-## 📌 Featured Projects:
--Bridgelabz-2415001605-Training
-Training repository with coding exercises, problem-solving, and learning resources from Bridgelabz.
+---
 
--sister-s-birthday-project
-A simple, responsive birthday website built with HTML and CSS as a personal project.
+## 🔥 GitHub Streak
 
--Student-Result-Database-Management-System
-A mini-project to monitor a students result, this project is built with java and sql combined. 
+<div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudititomar&theme=tokyonight" />
 
+</div>
 
-## 🌐 Connect with Me
-LinkedIn- www.linkedin.com/in/suditi-tomar-509984319
+---
 
-Email: suditi.tomar_cs24@gla.ac.in
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudititomar&theme=tokyonight&row=1&column=7" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Student Result Database Management System
+
+Java + SQL application to manage and monitor student records efficiently.
+
+### 🎂 Sister's Birthday Website
+
+Responsive website built with HTML & CSS featuring modern design principles.
+
+### 📚 Bridgelabz Training Repository
+
+Coding exercises, DSA practice, and problem-solving solutions.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/suditi-tomar-509984319">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:suditi.tomar_cs24@gla.ac.in">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### ⭐ "Turning ideas into code, one commit at a time."
+
+</div>
