@@ -1,37 +1,22 @@
-# <h1 align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Suditi+Tomar;Aspiring+Full-Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Suditi+Tomar;Computer+Science+Student;Aspiring+Full-Stack+Developer;Building+Projects+One+Commit+at+a+Time" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sudititomar&label=Profile+Views&color=6C63FF&style=for-the-badge" />
-
-</div>
+<h3 align="center">💜 Passionate Developer • Lifelong Learner • Problem Solver</h3>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+I'm a Computer Science student passionate about building impactful software and solving real-world problems through technology.
 
-🎓 Computer Science Student
-
-💻 Passionate about Web Development & Software Engineering
-
-🌱 Currently Learning **Full Stack Development**
-
-🤖 Exploring **AI-Powered Applications**
-
-🚀 Building projects that solve real-world problems
-
-🏀 Basketball Player
-
-💪 Fitness Enthusiast
-
-🎮 Gamer
-
-📫 Reach me at: **[suditi.tomar_cs24@gla.ac.in](mailto:suditi.tomar_cs24@gla.ac.in)**
+- 🌱 Currently learning **Full-Stack Development**
+- 💻 Skilled in **C, Python, Java, JavaScript, HTML, CSS, and SQL**
+- 🚀 Interested in **Web Development, AI Applications, and Software Engineering**
+- 📚 Continuously improving through projects and hands-on learning
+- 🏀 Basketball Player
+- 💪 Fitness Enthusiast
+- 🎮 Gaming Enthusiast
 
 ---
 
@@ -49,9 +34,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudititomar&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudititomar&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -61,17 +46,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudititomar&theme=tokyonight" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sudititomar&theme=tokyonight&row=1&column=7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -80,16 +55,23 @@
 ## 🚀 Featured Projects
 
 ### 🎓 Student Result Database Management System
+A Java and SQL-based application designed to efficiently manage and monitor student academic records and results.
 
-Java + SQL application to manage and monitor student records efficiently.
-
-### 🎂 Sister's Birthday Website
-
-Responsive website built with HTML & CSS featuring modern design principles.
+### 🎂 Birthday Celebration Website
+A responsive and visually appealing website built using HTML and CSS to celebrate a special occasion.
 
 ### 📚 Bridgelabz Training Repository
+A collection of coding exercises, problem-solving challenges, and learning resources completed during my training journey.
 
-Coding exercises, DSA practice, and problem-solving solutions.
+---
+
+## 🎯 Current Focus
+
+- Full-Stack Development
+- Data Structures & Algorithms
+- Building Real-World Projects
+- Exploring AI-Powered Applications
+- Strengthening Problem-Solving Skills
 
 ---
 
@@ -107,14 +89,9 @@ Coding exercises, DSA practice, and problem-solving solutions.
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <div align="center">
 
-### ⭐ "Turning ideas into code, one commit at a time."
+### ✨ Turning Ideas into Reality Through Code ✨
 
 </div>
+```
